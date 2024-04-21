@@ -1,0 +1,29 @@
+[
+    {
+    "model": "myapp.product",
+    "pk": 1,
+    "fields": {
+        "name": "Toy Laser Gun",
+        "price": 19.99,
+        "description": "It shoots lasers."
+    }
+    },
+    {
+    "model": "myapp.product",
+    "pk": 2,
+    "fields": {
+        "name": "Building Blocks",
+        "price": 14.99,
+        "description": "You can build with them."
+    }
+    },
+    {
+    "model": "myapp.product",
+    "pk": 3,
+    "fields": {
+        "name": "Doll",
+        "price": 9.99,
+        "description": "A doll that speaks."
+    }
+    }
+]
